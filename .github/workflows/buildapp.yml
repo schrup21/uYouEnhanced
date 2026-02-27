@@ -18,7 +18,7 @@ on:
         type: string
       decrypted_youtube_url:
         description: "Direct URL of the decrypted YouTube IPA"
-        default: "https://s2iq0urn94zuilw2.myfritz.net:47214/nas/filelink.lua?id=bb64dbadb54718ad"
+        default: ""
         required: true
         type: string
       bundle_id:
